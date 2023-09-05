@@ -1,0 +1,11 @@
+#header2 {
+    color:rgb(255, 145, 0);
+}
+.serif {
+    font-family: Cambria;
+}
+#introtext {
+    padding-left: 25%;
+    padding-right: 25%;
+    margin-bottom: 5%;
+}
